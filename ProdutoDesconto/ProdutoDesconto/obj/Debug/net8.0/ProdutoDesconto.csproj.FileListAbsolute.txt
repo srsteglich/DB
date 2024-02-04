@@ -1,0 +1,14 @@
+D:\Programa NET C#\ProvaDB\ProdutoDesconto\ProdutoDesconto\ProdutoDesconto\bin\Debug\net8.0\ProdutoDesconto.exe
+D:\Programa NET C#\ProvaDB\ProdutoDesconto\ProdutoDesconto\ProdutoDesconto\bin\Debug\net8.0\ProdutoDesconto.deps.json
+D:\Programa NET C#\ProvaDB\ProdutoDesconto\ProdutoDesconto\ProdutoDesconto\bin\Debug\net8.0\ProdutoDesconto.runtimeconfig.json
+D:\Programa NET C#\ProvaDB\ProdutoDesconto\ProdutoDesconto\ProdutoDesconto\bin\Debug\net8.0\ProdutoDesconto.dll
+D:\Programa NET C#\ProvaDB\ProdutoDesconto\ProdutoDesconto\ProdutoDesconto\bin\Debug\net8.0\ProdutoDesconto.pdb
+D:\Programa NET C#\ProvaDB\ProdutoDesconto\ProdutoDesconto\ProdutoDesconto\obj\Debug\net8.0\ProdutoDesconto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programa NET C#\ProvaDB\ProdutoDesconto\ProdutoDesconto\ProdutoDesconto\obj\Debug\net8.0\ProdutoDesconto.AssemblyInfoInputs.cache
+D:\Programa NET C#\ProvaDB\ProdutoDesconto\ProdutoDesconto\ProdutoDesconto\obj\Debug\net8.0\ProdutoDesconto.AssemblyInfo.cs
+D:\Programa NET C#\ProvaDB\ProdutoDesconto\ProdutoDesconto\ProdutoDesconto\obj\Debug\net8.0\ProdutoDesconto.csproj.CoreCompileInputs.cache
+D:\Programa NET C#\ProvaDB\ProdutoDesconto\ProdutoDesconto\ProdutoDesconto\obj\Debug\net8.0\ProdutoDesconto.dll
+D:\Programa NET C#\ProvaDB\ProdutoDesconto\ProdutoDesconto\ProdutoDesconto\obj\Debug\net8.0\refint\ProdutoDesconto.dll
+D:\Programa NET C#\ProvaDB\ProdutoDesconto\ProdutoDesconto\ProdutoDesconto\obj\Debug\net8.0\ProdutoDesconto.pdb
+D:\Programa NET C#\ProvaDB\ProdutoDesconto\ProdutoDesconto\ProdutoDesconto\obj\Debug\net8.0\ProdutoDesconto.genruntimeconfig.cache
+D:\Programa NET C#\ProvaDB\ProdutoDesconto\ProdutoDesconto\ProdutoDesconto\obj\Debug\net8.0\ref\ProdutoDesconto.dll

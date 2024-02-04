@@ -1,0 +1,14 @@
+D:\Programa NET C#\ProvaDB\MaiorIdade\MaiorIdade\MaiorIdade\bin\Debug\net8.0\MaiorIdade.exe
+D:\Programa NET C#\ProvaDB\MaiorIdade\MaiorIdade\MaiorIdade\bin\Debug\net8.0\MaiorIdade.deps.json
+D:\Programa NET C#\ProvaDB\MaiorIdade\MaiorIdade\MaiorIdade\bin\Debug\net8.0\MaiorIdade.runtimeconfig.json
+D:\Programa NET C#\ProvaDB\MaiorIdade\MaiorIdade\MaiorIdade\bin\Debug\net8.0\MaiorIdade.dll
+D:\Programa NET C#\ProvaDB\MaiorIdade\MaiorIdade\MaiorIdade\bin\Debug\net8.0\MaiorIdade.pdb
+D:\Programa NET C#\ProvaDB\MaiorIdade\MaiorIdade\MaiorIdade\obj\Debug\net8.0\MaiorIdade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programa NET C#\ProvaDB\MaiorIdade\MaiorIdade\MaiorIdade\obj\Debug\net8.0\MaiorIdade.AssemblyInfoInputs.cache
+D:\Programa NET C#\ProvaDB\MaiorIdade\MaiorIdade\MaiorIdade\obj\Debug\net8.0\MaiorIdade.AssemblyInfo.cs
+D:\Programa NET C#\ProvaDB\MaiorIdade\MaiorIdade\MaiorIdade\obj\Debug\net8.0\MaiorIdade.csproj.CoreCompileInputs.cache
+D:\Programa NET C#\ProvaDB\MaiorIdade\MaiorIdade\MaiorIdade\obj\Debug\net8.0\MaiorIdade.dll
+D:\Programa NET C#\ProvaDB\MaiorIdade\MaiorIdade\MaiorIdade\obj\Debug\net8.0\refint\MaiorIdade.dll
+D:\Programa NET C#\ProvaDB\MaiorIdade\MaiorIdade\MaiorIdade\obj\Debug\net8.0\MaiorIdade.pdb
+D:\Programa NET C#\ProvaDB\MaiorIdade\MaiorIdade\MaiorIdade\obj\Debug\net8.0\MaiorIdade.genruntimeconfig.cache
+D:\Programa NET C#\ProvaDB\MaiorIdade\MaiorIdade\MaiorIdade\obj\Debug\net8.0\ref\MaiorIdade.dll

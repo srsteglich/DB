@@ -1,0 +1,14 @@
+D:\Programa NET C#\ProvaDB\GereNumero\NumeroAleatorios\NumeroAleatorios\bin\Debug\net8.0\NumeroAleatorios.exe
+D:\Programa NET C#\ProvaDB\GereNumero\NumeroAleatorios\NumeroAleatorios\bin\Debug\net8.0\NumeroAleatorios.deps.json
+D:\Programa NET C#\ProvaDB\GereNumero\NumeroAleatorios\NumeroAleatorios\bin\Debug\net8.0\NumeroAleatorios.runtimeconfig.json
+D:\Programa NET C#\ProvaDB\GereNumero\NumeroAleatorios\NumeroAleatorios\bin\Debug\net8.0\NumeroAleatorios.dll
+D:\Programa NET C#\ProvaDB\GereNumero\NumeroAleatorios\NumeroAleatorios\bin\Debug\net8.0\NumeroAleatorios.pdb
+D:\Programa NET C#\ProvaDB\GereNumero\NumeroAleatorios\NumeroAleatorios\obj\Debug\net8.0\NumeroAleatorios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programa NET C#\ProvaDB\GereNumero\NumeroAleatorios\NumeroAleatorios\obj\Debug\net8.0\NumeroAleatorios.AssemblyInfoInputs.cache
+D:\Programa NET C#\ProvaDB\GereNumero\NumeroAleatorios\NumeroAleatorios\obj\Debug\net8.0\NumeroAleatorios.AssemblyInfo.cs
+D:\Programa NET C#\ProvaDB\GereNumero\NumeroAleatorios\NumeroAleatorios\obj\Debug\net8.0\NumeroAleatorios.csproj.CoreCompileInputs.cache
+D:\Programa NET C#\ProvaDB\GereNumero\NumeroAleatorios\NumeroAleatorios\obj\Debug\net8.0\NumeroAleatorios.dll
+D:\Programa NET C#\ProvaDB\GereNumero\NumeroAleatorios\NumeroAleatorios\obj\Debug\net8.0\refint\NumeroAleatorios.dll
+D:\Programa NET C#\ProvaDB\GereNumero\NumeroAleatorios\NumeroAleatorios\obj\Debug\net8.0\NumeroAleatorios.pdb
+D:\Programa NET C#\ProvaDB\GereNumero\NumeroAleatorios\NumeroAleatorios\obj\Debug\net8.0\NumeroAleatorios.genruntimeconfig.cache
+D:\Programa NET C#\ProvaDB\GereNumero\NumeroAleatorios\NumeroAleatorios\obj\Debug\net8.0\ref\NumeroAleatorios.dll

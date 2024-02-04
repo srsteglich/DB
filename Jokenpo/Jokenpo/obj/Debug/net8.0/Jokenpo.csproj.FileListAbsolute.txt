@@ -1,0 +1,14 @@
+D:\Programa NET C#\ProvaDB\Jokenpo\Jokenpo\Jokenpo\bin\Debug\net8.0\Jokenpo.exe
+D:\Programa NET C#\ProvaDB\Jokenpo\Jokenpo\Jokenpo\bin\Debug\net8.0\Jokenpo.deps.json
+D:\Programa NET C#\ProvaDB\Jokenpo\Jokenpo\Jokenpo\bin\Debug\net8.0\Jokenpo.runtimeconfig.json
+D:\Programa NET C#\ProvaDB\Jokenpo\Jokenpo\Jokenpo\bin\Debug\net8.0\Jokenpo.dll
+D:\Programa NET C#\ProvaDB\Jokenpo\Jokenpo\Jokenpo\bin\Debug\net8.0\Jokenpo.pdb
+D:\Programa NET C#\ProvaDB\Jokenpo\Jokenpo\Jokenpo\obj\Debug\net8.0\Jokenpo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programa NET C#\ProvaDB\Jokenpo\Jokenpo\Jokenpo\obj\Debug\net8.0\Jokenpo.AssemblyInfoInputs.cache
+D:\Programa NET C#\ProvaDB\Jokenpo\Jokenpo\Jokenpo\obj\Debug\net8.0\Jokenpo.AssemblyInfo.cs
+D:\Programa NET C#\ProvaDB\Jokenpo\Jokenpo\Jokenpo\obj\Debug\net8.0\Jokenpo.csproj.CoreCompileInputs.cache
+D:\Programa NET C#\ProvaDB\Jokenpo\Jokenpo\Jokenpo\obj\Debug\net8.0\Jokenpo.dll
+D:\Programa NET C#\ProvaDB\Jokenpo\Jokenpo\Jokenpo\obj\Debug\net8.0\refint\Jokenpo.dll
+D:\Programa NET C#\ProvaDB\Jokenpo\Jokenpo\Jokenpo\obj\Debug\net8.0\Jokenpo.pdb
+D:\Programa NET C#\ProvaDB\Jokenpo\Jokenpo\Jokenpo\obj\Debug\net8.0\Jokenpo.genruntimeconfig.cache
+D:\Programa NET C#\ProvaDB\Jokenpo\Jokenpo\Jokenpo\obj\Debug\net8.0\ref\Jokenpo.dll

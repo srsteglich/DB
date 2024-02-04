@@ -1,0 +1,14 @@
+D:\Programa NET C#\ProvaDB\Tabuada\Tabuada\Tabuada\bin\Debug\net8.0\Tabuada.exe
+D:\Programa NET C#\ProvaDB\Tabuada\Tabuada\Tabuada\bin\Debug\net8.0\Tabuada.deps.json
+D:\Programa NET C#\ProvaDB\Tabuada\Tabuada\Tabuada\bin\Debug\net8.0\Tabuada.runtimeconfig.json
+D:\Programa NET C#\ProvaDB\Tabuada\Tabuada\Tabuada\bin\Debug\net8.0\Tabuada.dll
+D:\Programa NET C#\ProvaDB\Tabuada\Tabuada\Tabuada\bin\Debug\net8.0\Tabuada.pdb
+D:\Programa NET C#\ProvaDB\Tabuada\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programa NET C#\ProvaDB\Tabuada\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.AssemblyInfoInputs.cache
+D:\Programa NET C#\ProvaDB\Tabuada\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.AssemblyInfo.cs
+D:\Programa NET C#\ProvaDB\Tabuada\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.csproj.CoreCompileInputs.cache
+D:\Programa NET C#\ProvaDB\Tabuada\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.dll
+D:\Programa NET C#\ProvaDB\Tabuada\Tabuada\Tabuada\obj\Debug\net8.0\refint\Tabuada.dll
+D:\Programa NET C#\ProvaDB\Tabuada\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.pdb
+D:\Programa NET C#\ProvaDB\Tabuada\Tabuada\Tabuada\obj\Debug\net8.0\Tabuada.genruntimeconfig.cache
+D:\Programa NET C#\ProvaDB\Tabuada\Tabuada\Tabuada\obj\Debug\net8.0\ref\Tabuada.dll

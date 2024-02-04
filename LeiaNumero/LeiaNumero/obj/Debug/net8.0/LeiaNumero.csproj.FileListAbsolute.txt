@@ -1,0 +1,14 @@
+D:\Programa NET C#\ProvaDB\LeiaNumero\LeiaNumero\bin\Debug\net8.0\LeiaNumero.exe
+D:\Programa NET C#\ProvaDB\LeiaNumero\LeiaNumero\bin\Debug\net8.0\LeiaNumero.deps.json
+D:\Programa NET C#\ProvaDB\LeiaNumero\LeiaNumero\bin\Debug\net8.0\LeiaNumero.runtimeconfig.json
+D:\Programa NET C#\ProvaDB\LeiaNumero\LeiaNumero\bin\Debug\net8.0\LeiaNumero.dll
+D:\Programa NET C#\ProvaDB\LeiaNumero\LeiaNumero\bin\Debug\net8.0\LeiaNumero.pdb
+D:\Programa NET C#\ProvaDB\LeiaNumero\LeiaNumero\obj\Debug\net8.0\LeiaNumero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programa NET C#\ProvaDB\LeiaNumero\LeiaNumero\obj\Debug\net8.0\LeiaNumero.AssemblyInfoInputs.cache
+D:\Programa NET C#\ProvaDB\LeiaNumero\LeiaNumero\obj\Debug\net8.0\LeiaNumero.AssemblyInfo.cs
+D:\Programa NET C#\ProvaDB\LeiaNumero\LeiaNumero\obj\Debug\net8.0\LeiaNumero.csproj.CoreCompileInputs.cache
+D:\Programa NET C#\ProvaDB\LeiaNumero\LeiaNumero\obj\Debug\net8.0\LeiaNumero.dll
+D:\Programa NET C#\ProvaDB\LeiaNumero\LeiaNumero\obj\Debug\net8.0\refint\LeiaNumero.dll
+D:\Programa NET C#\ProvaDB\LeiaNumero\LeiaNumero\obj\Debug\net8.0\LeiaNumero.pdb
+D:\Programa NET C#\ProvaDB\LeiaNumero\LeiaNumero\obj\Debug\net8.0\LeiaNumero.genruntimeconfig.cache
+D:\Programa NET C#\ProvaDB\LeiaNumero\LeiaNumero\obj\Debug\net8.0\ref\LeiaNumero.dll
